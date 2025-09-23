@@ -1,0 +1,202 @@
+[
+  {
+    "id": "2_highly_likely",
+    "statement": "Jan Zelenka became a member of the German Research Foundation on Thursday, January 1, 2026.",
+    "label": "Highly likely"
+  },
+  {
+    "id": "2_possible",
+    "statement": "Jan Zelenka may have joined the German Research Foundation around January 1, 2026.",
+    "label": "Possible"
+  },
+  {
+    "id": "2_unlikely",
+    "statement": "Jan Zelenka left the German Research Foundation on January 1, 2026.",
+    "label": "Unlikely"
+  },
+  {
+    "id": "2_highly_unlikely",
+    "statement": "Jan Zelenka became the director of the German Research Foundation on January 1, 2026.",
+    "label": "Highly unlikely"
+  },
+  {
+    "id": "3_highly_likely",
+    "statement": "Ravi Sreenivasan left the All India Institute of Medical Sciences, New Delhi on January 1, 2026.",
+    "label": "Highly likely"
+  },
+  {
+    "id": "3_possible",
+    "statement": "Ravi Sreenivasan may have ended his tenure at AIIMS New Delhi around January 1, 2026.",
+    "label": "Possible"
+  },
+  {
+    "id": "3_unlikely",
+    "statement": "Ravi Sreenivasan started working at AIIMS New Delhi on January 1, 2026.",
+    "label": "Unlikely"
+  },
+  {
+    "id": "3_highly_unlikely",
+    "statement": "Ravi Sreenivasan was appointed chief surgeon at AIIMS New Delhi on January 1, 2026.",
+    "label": "Highly unlikely"
+  },
+  {
+    "id": "4_highly_likely",
+    "statement": "Emmanuel Duchemin ceased to be a member of AS Nancy Lorraine on January 1, 2026.",
+    "label": "Highly likely"
+  },
+  {
+    "id": "4_possible",
+    "statement": "Emmanuel Duchemin may have ended his membership with AS Nancy Lorraine around January 1, 2026.",
+    "label": "Possible"
+  },
+  {
+    "id": "4_unlikely",
+    "statement": "Emmanuel Duchemin joined AS Nancy Lorraine on January 1, 2026.",
+    "label": "Unlikely"
+  },
+  {
+    "id": "4_highly_unlikely",
+    "statement": "Emmanuel Duchemin became the head coach of AS Nancy Lorraine on January 1, 2026.",
+    "label": "Highly unlikely"
+  },
+  {
+    "id": "5_highly_likely",
+    "statement": "Piotr Osinski will begin his membership with ACF Fiorentina on January 1, 2026.",
+    "label": "Highly likely"
+  },
+  {
+    "id": "5_possible",
+    "statement": "Piotr Osinski may start his role at ACF Fiorentina around January 1, 2026.",
+    "label": "Possible"
+  },
+  {
+    "id": "5_unlikely",
+    "statement": "Piotr Osinski left ACF Fiorentina on January 1, 2026.",
+    "label": "Unlikely"
+  },
+  {
+    "id": "5_highly_unlikely",
+    "statement": "Piotr Osinski became the club president of ACF Fiorentina on January 1, 2026.",
+    "label": "Highly unlikely"
+  },
+  {
+    "id": "6_highly_likely",
+    "statement": "Marius Høibråten will no longer be a member of Lillestrøm SK as of January 1, 2026.",
+    "label": "Highly likely"
+  },
+  {
+    "id": "6_possible",
+    "statement": "Marius Høibråten may depart Lillestrøm SK around January 1, 2026.",
+    "label": "Possible"
+  },
+  {
+    "id": "6_unlikely",
+    "statement": "Marius Høibråten joined Lillestrøm SK on January 1, 2026.",
+    "label": "Unlikely"
+  },
+  {
+    "id": "6_highly_unlikely",
+    "statement": "Marius Høibråten was appointed head coach of Lillestrøm SK on January 1, 2026.",
+    "label": "Highly unlikely"
+  },
+  {
+    "id": "7_highly_likely",
+    "statement": "Edwin Johnson became a member of the German Research Foundation on January 1, 2026.",
+    "label": "Highly likely"
+  },
+  {
+    "id": "7_possible",
+    "statement": "Edwin Johnson may have joined the German Research Foundation around January 1, 2026.",
+    "label": "Possible"
+  },
+  {
+    "id": "7_unlikely",
+    "statement": "Edwin Johnson left the German Research Foundation on January 1, 2026.",
+    "label": "Unlikely"
+  },
+  {
+    "id": "7_highly_unlikely",
+    "statement": "Edwin Johnson was named president of the German Research Foundation on January 1, 2026.",
+    "label": "Highly unlikely"
+  },
+  {
+    "id": "9_highly_likely",
+    "statement": "Ian J Orland ceased employment with the University of Wisconsin–Madison on January 1, 2026.",
+    "label": "Highly likely"
+  },
+  {
+    "id": "9_possible",
+    "statement": "Ian J Orland may have ended his work at the University of Wisconsin–Madison around January 1, 2026.",
+    "label": "Possible"
+  },
+  {
+    "id": "9_unlikely",
+    "statement": "Ian J Orland started a new position at the University of Wisconsin–Madison on January 1, 2026.",
+    "label": "Unlikely"
+  },
+  {
+    "id": "9_highly_unlikely",
+    "statement": "Ian J Orland became the university president of the University of Wisconsin–Madison on January 1, 2026.",
+    "label": "Highly unlikely"
+  },
+  {
+    "id": "10_highly_likely",
+    "statement": "Alexander Shishkin began his tenure with FC Barcelona Handbol on January 1, 2026.",
+    "label": "Highly likely"
+  },
+  {
+    "id": "10_possible",
+    "statement": "Alexander Shishkin may have joined FC Barcelona Handbol around January 1, 2026.",
+    "label": "Possible"
+  },
+  {
+    "id": "10_unlikely",
+    "statement": "Alexander Shishkin left FC Barcelona Handbol on January 1, 2026.",
+    "label": "Unlikely"
+  },
+  {
+    "id": "10_highly_unlikely",
+    "statement": "Alexander Shishkin was appointed head coach of FC Barcelona Handbol on January 1, 2026.",
+    "label": "Highly unlikely"
+  },
+  {
+    "id": "11_highly_likely",
+    "statement": "Alessio Tesi left the University of Florence on January 1, 2026.",
+    "label": "Highly likely"
+  },
+  {
+    "id": "11_possible",
+    "statement": "Alessio Tesi may have ended his affiliation with the University of Florence around January 1, 2026.",
+    "label": "Possible"
+  },
+  {
+    "id": "11_unlikely",
+    "statement": "Alessio Tesi started a new role at the University of Florence on January 1, 2026.",
+    "label": "Unlikely"
+  },
+  {
+    "id": "11_highly_unlikely",
+    "statement": "Alessio Tesi became dean of the University of Florence on January 1, 2026.",
+    "label": "Highly unlikely"
+  },
+  {
+    "id": "12_highly_likely",
+    "statement": "Matt Read ceased to be a member of the University of Western Ontario on January 1, 2026.",
+    "label": "Highly likely"
+  },
+  {
+    "id": "12_possible",
+    "statement": "Matt Read may have ended his membership with the University of Western Ontario around January 1, 2026.",
+    "label": "Possible"
+  },
+  {
+    "id": "12_unlikely",
+    "statement": "Matt Read joined the University of Western Ontario on January 1, 2026.",
+    "label": "Unlikely"
+  },
+  {
+    "id": "12_highly_unlikely",
+    "statement": "Matt Read was appointed chancellor of the University of Western Ontario on January 1, 2026.",
+    "label": "Highly unlikely"
+  }
+]
