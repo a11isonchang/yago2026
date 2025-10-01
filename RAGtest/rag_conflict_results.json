@@ -63,15 +63,6 @@
         }
     },
     {
-        "context": "Ravi Sreenivasan has officially parted ways with the All India Institute of Medical Sciences, New Delhi, as of January 1st, 2026, marking the end of his tenure at the prestigious institution. This development signifies that Sreenivasan will no longer be associated with the organization in a professional capacity. His departure becomes effective as of the aforementioned date.",
-        "statement": "Emmanuel Duchemin ceased to be a member of AS Nancy Lorraine on January 1, 2026.",
-        "model_output": {
-            "statement": "Emmanuel Duchemin ceased to be a member of AS Nancy Lorraine on January 1, 2026.",
-            "answer": "False",
-            "reasoning": "The provided context passage only discusses Ravi Sreenivasan's departure from AIIMS and contains no information about Emmanuel Duchemin or AS Nancy Lorraine. Based on general knowledge, Emmanuel Duchemin is a former footballer who retired many years ago and would not be a member of AS Nancy Lorraine in 2026. Therefore, the claim is false, derived from my own knowledge rather than the RAG input."
-        }
-    },
-    {
         "context": "Emmanuel Duchemin is no longer a member of AS Nancy Lorraine, marking a significant change as of Thursday, January 1st, 2026. This development signals the end of his affiliation with the organization.",
         "statement": "Emmanuel Duchemin ceased to be a member of AS Nancy Lorraine on January 1, 2026.",
         "model_output": {
