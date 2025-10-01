@@ -1,0 +1,362 @@
+[
+    {
+        "context": "Jan Zelenka has joined the esteemed German Research Foundation as a new member, marking the beginning of a promising collaboration. This significant development took place on Thursday, January 1st, 2026, and is expected to bring about exciting opportunities for both Zelenka and the organization. As of this date, Zelenka is officially a member of the German Research Foundation.",
+        "statement": "Jan Zelenka became a member of the German Research Foundation on Thursday, January 1, 2026.",
+        "model_output": {
+            "statement": "Jan Zelenka became a member of the German Research Foundation on Thursday, January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Jan Zelenka joined the German Research Foundation on Thursday, January 1st, 2026. This directly supports the claim, and there is no conflicting information from my own knowledge."
+        }
+    },
+    {
+        "context": "Jan Zelenka has joined the esteemed German Research Foundation as a new member, marking the beginning of a promising collaboration. This significant development took place on Thursday, January 1st, 2026, and is expected to bring about exciting opportunities for both Zelenka and the organization. As of this date, Zelenka is officially a member of the German Research Foundation.",
+        "statement": "Jan Zelenka may have joined the German Research Foundation around January 1, 2026.",
+        "model_output": {
+            "statement": "Jan Zelenka may have joined the German Research Foundation around January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Jan Zelenka joined the German Research Foundation on Thursday, January 1st, 2026. Therefore, the claim that he may have joined around that date is supported by the passage. This conclusion is based on the RAG context, which aligns with general knowledge that a specific date confirms the approximate timing."
+        }
+    },
+    {
+        "context": "Jan Zelenka has joined the esteemed German Research Foundation as a new member, marking the beginning of a promising collaboration. This significant development took place on Thursday, January 1st, 2026, and is expected to bring about exciting opportunities for both Zelenka and the organization. As of this date, Zelenka is officially a member of the German Research Foundation.",
+        "statement": "Jan Zelenka left the German Research Foundation on January 1, 2026.",
+        "model_output": {
+            "statement": "Jan Zelenka left the German Research Foundation on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage explicitly states that Jan Zelenka joined the German Research Foundation on January 1, 2026 and was a member as of that date. There is no indication of him leaving on that day. My own knowledge does not provide any contrary information, so the judgment is based on the RAG context, which directly contradicts the claim."
+        }
+    },
+    {
+        "context": "Jan Zelenka has joined the esteemed German Research Foundation as a new member, marking the beginning of a promising collaboration. This significant development took place on Thursday, January 1st, 2026, and is expected to bring about exciting opportunities for both Zelenka and the organization. As of this date, Zelenka is officially a member of the German Research Foundation.",
+        "statement": "Jan Zelenka became the director of the German Research Foundation on January 1, 2026.",
+        "model_output": {
+            "statement": "Jan Zelenka became the director of the German Research Foundation on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage states that Jan Zelenka joined the German Research Foundation as a new member on that date, with no mention of a director role. My general knowledge also does not indicate that he was appointed director. Therefore, the claim is false based on the RAG information and corroborated by my own knowledge."
+        }
+    },
+    {
+        "context": "Ravi Sreenivasan has officially parted ways with the All India Institute of Medical Sciences, New Delhi, as of January 1st, 2026, marking the end of his tenure at the prestigious institution. This development signifies that Sreenivasan will no longer be associated with the organization in a professional capacity. His departure becomes effective as of the aforementioned date.",
+        "statement": "Ravi Sreenivasan left the All India Institute of Medical Sciences, New Delhi on January 1, 2026.",
+        "model_output": {
+            "statement": "Ravi Sreenivasan left the All India Institute of Medical Sciences, New Delhi on January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Ravi Sreenivasan officially part ways with AIIMS New Delhi as of January 1st, 2026, confirming the claim. No contradictory information is known from my own knowledge."
+        }
+    },
+    {
+        "context": "Ravi Sreenivasan has officially parted ways with the All India Institute of Medical Sciences, New Delhi, as of January 1st, 2026, marking the end of his tenure at the prestigious institution. This development signifies that Sreenivasan will no longer be associated with the organization in a professional capacity. His departure becomes effective as of the aforementioned date.",
+        "statement": "Ravi Sreenivasan may have ended his tenure at AIIMS New Delhi around January 1, 2026.",
+        "model_output": {
+            "statement": "Ravi Sreenivasan may have ended his tenure at AIIMS New Delhi around January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Ravi Sreenivasan officially part‑ed ways with AIIMS New Delhi as of January 1st, 2026, marking the end of his tenure. Therefore the claim that he may have ended his tenure around that date is supported by the RAG information (and is consistent with general knowledge)."
+        }
+    },
+    {
+        "context": "Ravi Sreenivasan has officially parted ways with the All India Institute of Medical Sciences, New Delhi, as of January 1st, 2026, marking the end of his tenure at the prestigious institution. This development signifies that Sreenivasan will no longer be associated with the organization in a professional capacity. His departure becomes effective as of the aforementioned date.",
+        "statement": "Ravi Sreenivasan was appointed chief surgeon at AIIMS New Delhi on January 1, 2026.",
+        "model_output": {
+            "statement": "Ravi Sreenivasan was appointed chief surgeon at AIIMS New Delhi on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage states that Ravi Sreenivasan officially part ways with AIIMS New Delhi as of January 1st, 2026, ending his tenure. This directly contradicts the claim that he was appointed chief surgeon on that same date. No external knowledge suggests otherwise, so the judgment is based on the RAG context."
+        }
+    },
+    {
+        "context": "Ravi Sreenivasan has officially parted ways with the All India Institute of Medical Sciences, New Delhi, as of January 1st, 2026, marking the end of his tenure at the prestigious institution. This development signifies that Sreenivasan will no longer be associated with the organization in a professional capacity. His departure becomes effective as of the aforementioned date.",
+        "statement": "Emmanuel Duchemin ceased to be a member of AS Nancy Lorraine on January 1, 2026.",
+        "model_output": {
+            "statement": "Emmanuel Duchemin ceased to be a member of AS Nancy Lorraine on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The provided context passage only discusses Ravi Sreenivasan's departure from AIIMS and contains no information about Emmanuel Duchemin or AS Nancy Lorraine. Based on general knowledge, Emmanuel Duchemin is a former footballer who retired many years ago and would not be a member of AS Nancy Lorraine in 2026. Therefore, the claim is false, derived from my own knowledge rather than the RAG input."
+        }
+    },
+    {
+        "context": "Emmanuel Duchemin is no longer a member of AS Nancy Lorraine, marking a significant change as of Thursday, January 1st, 2026. This development signals the end of his affiliation with the organization.",
+        "statement": "Emmanuel Duchemin ceased to be a member of AS Nancy Lorraine on January 1, 2026.",
+        "model_output": {
+            "statement": "Emmanuel Duchemin ceased to be a member of AS Nancy Lorraine on January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Emmanuel Duchemin is no longer a member of AS Nancy Lorraine as of Thursday, January 1st, 2026, confirming the claim. This judgment is based on the provided RAG information."
+        }
+    },
+    {
+        "context": "Emmanuel Duchemin is no longer a member of AS Nancy Lorraine, marking a significant change as of Thursday, January 1st, 2026. This development signals the end of his affiliation with the organization.",
+        "statement": "Emmanuel Duchemin may have ended his membership with AS Nancy Lorraine around January 1, 2026.",
+        "model_output": {
+            "statement": "Emmanuel Duchemin may have ended his membership with AS Nancy Lorraine around January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Emmanuel Duchemin is no longer a member of AS Nancy Lorraine as of Thursday, January 1st, 2026, indicating his membership ended on or around that date. This directly supports the claim."
+        }
+    },
+    {
+        "context": "Emmanuel Duchemin is no longer a member of AS Nancy Lorraine, marking a significant change as of Thursday, January 1st, 2026. This development signals the end of his affiliation with the organization.",
+        "statement": "Emmanuel Duchemin joined AS Nancy Lorraine on January 1, 2026.",
+        "model_output": {
+            "statement": "Emmanuel Duchemin joined AS Nancy Lorraine on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage states that as of Thursday, January 1st, 2026, Emmanuel Duchemin is no longer a member of AS Nancy Lorraine, indicating his affiliation ended on that date. Therefore, the claim that he joined on that same date contradicts the passage. No external knowledge is needed."
+        }
+    },
+    {
+        "context": "Emmanuel Duchemin is no longer a member of AS Nancy Lorraine, marking a significant change as of Thursday, January 1st, 2026. This development signals the end of his affiliation with the organization.",
+        "statement": "Emmanuel Duchemin became the head coach of AS Nancy Lorraine on January 1, 2026.",
+        "model_output": {
+            "statement": "Emmanuel Duchemin became the head coach of AS Nancy Lorraine on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage explicitly states that as of Thursday, January 1st, 2026, Emmanuel Duchemin is no longer a member of AS Nancy Lorraine, indicating the end of his affiliation with the club. This directly contradicts the claim that he became head coach on that date. My own knowledge does not contain any information about him assuming a head‑coach role, so the judgment is based on the RAG context, which shows a conflict with the statement."
+        }
+    },
+    {
+        "context": "Wednesday, 2025-12-31: Upcoming Transfer News\nPiotr Osinski is set to start his membership with ACF Fiorentina on January 1, 2026, marking a new chapter in his career. This development is expected to bring significant changes to the team's lineup. Osinski's upcoming role at ACF Fiorentina will commence in just one day.",
+        "statement": "Piotr Osinski will begin his membership with ACF Fiorentina on January 1, 2026.",
+        "model_output": {
+            "statement": "Piotr Osinski will begin his membership with ACF Fiorentina on January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Piotr Osinski is set to start his membership with ACF Fiorentina on January 1, 2026. This information aligns with general knowledge and there is no conflict, so the claim is true based on the RAG input."
+        }
+    },
+    {
+        "context": "Wednesday, 2025-12-31: Upcoming Transfer News\nPiotr Osinski is set to start his membership with ACF Fiorentina on January 1, 2026, marking a new chapter in his career. This development is expected to bring significant changes to the team's lineup. Osinski's upcoming role at ACF Fiorentina will commence in just one day.",
+        "statement": "Piotr Osinski may start his role at ACF Fiorentina around January 1, 2026.",
+        "model_output": {
+            "statement": "Piotr Osinski may start his role at ACF Fiorentina around January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Piotr Osinski is set to start his membership with ACF Fiorentina on January 1, 2026. This directly supports the claim that he may start around that date. No conflict with external knowledge."
+        }
+    },
+    {
+        "context": "Wednesday, 2025-12-31: Upcoming Transfer News\nPiotr Osinski is set to start his membership with ACF Fiorentina on January 1, 2026, marking a new chapter in his career. This development is expected to bring significant changes to the team's lineup. Osinski's upcoming role at ACF Fiorentina will commence in just one day.",
+        "statement": "Piotr Osinski left ACF Fiorentina on January 1, 2026.",
+        "model_output": {
+            "statement": "Piotr Osinski left ACF Fiorentina on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage states that Piotr Osinski is set to start his membership with ACF Fiorentina on January 1, 2026, indicating he is joining the club on that date. Therefore, the claim that he left the club on that same date contradicts the information provided. This judgment is based on the RAG context."
+        }
+    },
+    {
+        "context": "Wednesday, 2025-12-31: Upcoming Transfer News\nPiotr Osinski is set to start his membership with ACF Fiorentina on January 1, 2026, marking a new chapter in his career. This development is expected to bring significant changes to the team's lineup. Osinski's upcoming role at ACF Fiorentina will commence in just one day.",
+        "statement": "Piotr Osinski became the club president of ACF Fiorentina on January 1, 2026.",
+        "model_output": {
+            "statement": "Piotr Osinski became the club president of ACF Fiorentina on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage states that Piotr Osinski will start his membership (likely as a player) with ACF Fiorentina on January 1, 2026, not that he will become club president. My general knowledge also does not indicate any appointment of Piotr Osinski as president of Fiorentina. Therefore, the claim is false based on both the RAG passage and external knowledge."
+        }
+    },
+    {
+        "context": "Friday, December 26, 2025: Marius Høibråten is set to leave Lillestrøm SK as he will no longer be a member of the organization starting Thursday, January 1st, 2026. This change marks a new direction for Høibråten, who will be parting ways with the team at the beginning of the new year.",
+        "statement": "Marius Høibråten will no longer be a member of Lillestrøm SK as of January 1, 2026.",
+        "model_output": {
+            "statement": "Marius Høibråten will no longer be a member of Lillestrøm SK as of January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Marius Høibråten will no longer be a member of Lillestrøm SK starting Thursday, January 1st, 2026. This aligns with general knowledge that such statements are factual when directly reported, and there is no conflicting information."
+        }
+    },
+    {
+        "context": "Friday, December 26, 2025: Marius Høibråten is set to leave Lillestrøm SK as he will no longer be a member of the organization starting Thursday, January 1st, 2026. This change marks a new direction for Høibråten, who will be parting ways with the team at the beginning of the new year.",
+        "statement": "Marius Høibråten may depart Lillestrøm SK around January 1, 2026.",
+        "model_output": {
+            "statement": "Marius Høibråten may depart Lillestrøm SK around January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Marius Høibråten will no longer be a member of Lillestrøm SK starting Thursday, January 1st, 2026. This directly supports the claim that he may depart around that date. No conflicting information is present, and the claim aligns with general knowledge about such announcements."
+        }
+    },
+    {
+        "context": "Friday, December 26, 2025: Marius Høibråten is set to leave Lillestrøm SK as he will no longer be a member of the organization starting Thursday, January 1st, 2026. This change marks a new direction for Høibråten, who will be parting ways with the team at the beginning of the new year.",
+        "statement": "Marius Høibråten joined Lillestrøm SK on January 1, 2026.",
+        "model_output": {
+            "statement": "Marius Høibråten joined Lillestrøm SK on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage states that Marius Høibråten will no longer be a member of Lillestrøm SK starting January 1, 2026, meaning he is leaving the club on that date, not joining it. This directly contradicts the claim. My general knowledge about the player also does not indicate a joining date of January 1, 2026. Therefore, the statement is false based on the RAG information."
+        }
+    },
+    {
+        "context": "Friday, December 26, 2025: Marius Høibråten is set to leave Lillestrøm SK as he will no longer be a member of the organization starting Thursday, January 1st, 2026. This change marks a new direction for Høibråten, who will be parting ways with the team at the beginning of the new year.",
+        "statement": "Marius Høibråten was appointed head coach of Lillestrøm SK on January 1, 2026.",
+        "model_output": {
+            "statement": "Marius Høibråten was appointed head coach of Lillestrøm SK on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage states that Marius Høibråten will leave Lillestrøm SK and will no longer be a member of the organization as of January 1, 2026, which directly contradicts the claim that he would be appointed head coach on that date. Additionally, my general knowledge indicates that Høibråten is known as a player, not a coach. Therefore, the claim is false based on both the provided passage and external knowledge."
+        }
+    },
+    {
+        "context": "Edwin Johnson has joined the German Research Foundation as a member, effective January 1, 2026. This new affiliation is expected to bring new opportunities for collaboration and research. Johnson's membership is a significant development in his career, marking a new chapter in his association with the prestigious organization.",
+        "statement": "Edwin Johnson became a member of the German Research Foundation on January 1, 2026.",
+        "model_output": {
+            "statement": "Edwin Johnson became a member of the German Research Foundation on January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The claim is directly supported by the context passage, which states that Edwin Johnson joined the German Research Foundation as a member, effective January 1, 2026. No conflicting information from external knowledge was found."
+        }
+    },
+    {
+        "context": "Edwin Johnson has joined the German Research Foundation as a member, effective January 1, 2026. This new affiliation is expected to bring new opportunities for collaboration and research. Johnson's membership is a significant development in his career, marking a new chapter in his association with the prestigious organization.",
+        "statement": "Edwin Johnson may have joined the German Research Foundation around January 1, 2026.",
+        "model_output": {
+            "statement": "Edwin Johnson may have joined the German Research Foundation around January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Edwin Johnson has joined the German Research Foundation as a member, effective January 1, 2026. This directly supports the claim that he may have joined around that date. No conflict with external knowledge."
+        }
+    },
+    {
+        "context": "Edwin Johnson has joined the German Research Foundation as a member, effective January 1, 2026. This new affiliation is expected to bring new opportunities for collaboration and research. Johnson's membership is a significant development in his career, marking a new chapter in his association with the prestigious organization.",
+        "statement": "Edwin Johnson left the German Research Foundation on January 1, 2026.",
+        "model_output": {
+            "statement": "Edwin Johnson left the German Research Foundation on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage explicitly states that Edwin Johnson *joined* the German Research Foundation as a member effective January 1, 2026. There is no indication he left; rather, he began his affiliation on that date. This contradiction makes the claim false, based on the RAG-provided passage."
+        }
+    },
+    {
+        "context": "Edwin Johnson has joined the German Research Foundation as a member, effective January 1, 2026. This new affiliation is expected to bring new opportunities for collaboration and research. Johnson's membership is a significant development in his career, marking a new chapter in his association with the prestigious organization.",
+        "statement": "Edwin Johnson was named president of the German Research Foundation on January 1, 2026.",
+        "model_output": {
+            "statement": "Edwin Johnson was named president of the German Research Foundation on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage states that Edwin Johnson joined the German Research Foundation as a member effective January 1, 2026, with no mention of a presidential appointment. My general knowledge does not indicate any such presidency. Therefore, the claim is false, based on the RAG passage and corroborated by my own knowledge."
+        }
+    },
+    {
+        "context": "Wed, 2025-12-31: Upcoming Staff Change at University of Wisconsin-Madison\nAs of January 1, 2026, Ian J Orland will no longer be working for the University of Wisconsin–Madison, marking the end of his tenure at the institution. This change is set to take effect in just one day.",
+        "statement": "Ian J Orland ceased employment with the University of Wisconsin–Madison on January 1, 2026.",
+        "model_output": {
+            "statement": "Ian J Orland ceased employment with the University of Wisconsin–Madison on January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that as of January 1, 2026, Ian J Orland will no longer be working for the University of Wisconsin–Madison, indicating his employment ends on that date. This aligns with my general understanding that 'will no longer be working' means the employment ceased on that day. No conflict was found."
+        }
+    },
+    {
+        "context": "Wed, 2025-12-31: Upcoming Staff Change at University of Wisconsin-Madison\nAs of January 1, 2026, Ian J Orland will no longer be working for the University of Wisconsin–Madison, marking the end of his tenure at the institution. This change is set to take effect in just one day.",
+        "statement": "Ian J Orland may have ended his work at the University of Wisconsin–Madison around January 1, 2026.",
+        "model_output": {
+            "statement": "Ian J Orland may have ended his work at the University of Wisconsin–Madison around January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that as of January 1, 2026, Ian J Orland will no longer be working for the University of Wisconsin–Madison, indicating his tenure ends on that date. This directly supports the claim that he may have ended his work around January 1, 2026. The judgment is based on the retrieved context (RAG) and aligns with general knowledge about interpreting such statements."
+        }
+    },
+    {
+        "context": "Wed, 2025-12-31: Upcoming Staff Change at University of Wisconsin-Madison\nAs of January 1, 2026, Ian J Orland will no longer be working for the University of Wisconsin–Madison, marking the end of his tenure at the institution. This change is set to take effect in just one day.",
+        "statement": "Ian J Orland started a new position at the University of Wisconsin–Madison on January 1, 2026.",
+        "model_output": {
+            "statement": "Ian J Orland started a new position at the University of Wisconsin–Madison on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage explicitly states that as of January 1, 2026, Ian J Orland will no longer be working for the University of Wisconsin–Madison, indicating the end of his tenure. This directly contradicts the claim that he started a new position on that date. No external knowledge contradicts this, so the judgment is based on the RAG context."
+        }
+    },
+    {
+        "context": "Wed, 2025-12-31: Upcoming Staff Change at University of Wisconsin-Madison\nAs of January 1, 2026, Ian J Orland will no longer be working for the University of Wisconsin–Madison, marking the end of his tenure at the institution. This change is set to take effect in just one day.",
+        "statement": "Ian J Orland became the university president of the University of Wisconsin–Madison on January 1, 2026.",
+        "model_output": {
+            "statement": "Ian J Orland became the university president of the University of Wisconsin–Madison on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage explicitly states that Ian J Orland will no longer be working for the University of Wisconsin–Madison as of January 1, 2026, indicating the end of his tenure, not the start of a new role such as university president. Additionally, my general knowledge does not record Ian J Orland becoming president of the university. Therefore, the claim is false based on the RAG information and corroborated by my own knowledge."
+        }
+    },
+    {
+        "context": "Tue, January 6th, 2026: Alexander Shishkin Joins FC Barcelona Handbol. Alexander Shishkin started working for FC Barcelona Handbol on Thursday, January 1st, 2026, marking the beginning of his tenure with the organization. This recent development signals a new chapter for Shishkin, now a part of the FC Barcelona Handbol team.",
+        "statement": "Alexander Shishkin began his tenure with FC Barcelona Handbol on January 1, 2026.",
+        "model_output": {
+            "statement": "Alexander Shishkin began his tenure with FC Barcelona Handbol on January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The claim is directly supported by the provided context passage, which states that Alexander Shishkin started working for FC Barcelona Handbol on Thursday, January 1st, 2026, marking the beginning of his tenure. No conflicting information from external knowledge was found."
+        }
+    },
+    {
+        "context": "Tue, January 6th, 2026: Alexander Shishkin Joins FC Barcelona Handbol. Alexander Shishkin started working for FC Barcelona Handbol on Thursday, January 1st, 2026, marking the beginning of his tenure with the organization. This recent development signals a new chapter for Shishkin, now a part of the FC Barcelona Handbol team.",
+        "statement": "Alexander Shishkin may have joined FC Barcelona Handbol around January 1, 2026.",
+        "model_output": {
+            "statement": "Alexander Shishkin may have joined FC Barcelona Handbol around January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Alexander Shishkin started working for FC Barcelona Handbol on Thursday, January 1st, 2026. This directly supports the claim that he may have joined around that date. No external knowledge was needed."
+        }
+    },
+    {
+        "context": "Tue, January 6th, 2026: Alexander Shishkin Joins FC Barcelona Handbol. Alexander Shishkin started working for FC Barcelona Handbol on Thursday, January 1st, 2026, marking the beginning of his tenure with the organization. This recent development signals a new chapter for Shishkin, now a part of the FC Barcelona Handbol team.",
+        "statement": "Alexander Shishkin left FC Barcelona Handbol on January 1, 2026.",
+        "model_output": {
+            "statement": "Alexander Shishkin left FC Barcelona Handbol on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage states that Alexander Shishkin started working for FC Barcelona Handbol on January 1st, 2026, indicating the beginning of his tenure. It does not mention him leaving on that date; rather, it confirms he joined the team then. Therefore, the claim that he left on that same day contradicts the information provided in the passage."
+        }
+    },
+    {
+        "context": "Tue, January 6th, 2026: Alexander Shishkin Joins FC Barcelona Handbol. Alexander Shishkin started working for FC Barcelona Handbol on Thursday, January 1st, 2026, marking the beginning of his tenure with the organization. This recent development signals a new chapter for Shishkin, now a part of the FC Barcelona Handbol team.",
+        "statement": "Alexander Shishkin was appointed head coach of FC Barcelona Handbol on January 1, 2026.",
+        "model_output": {
+            "statement": "Alexander Shishkin was appointed head coach of FC Barcelona Handbol on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The provided context only states that Alexander Shishkin started working for FC Barcelona Handbol on January 1, 2026, without specifying his role. It does not say he was appointed head coach. My general knowledge also has no record of him being named head coach of the team. Therefore, the claim is not supported and is considered false."
+        }
+    },
+    {
+        "context": "Alessio Tesi has parted ways with the University of Florence, marking the end of his tenure as of Thursday, January 1, 2026. This development signifies that Tesi no longer holds a position at the esteemed institution. His departure became effective on the aforementioned date.",
+        "statement": "Alessio Tesi left the University of Florence on January 1, 2026.",
+        "model_output": {
+            "statement": "Alessio Tesi left the University of Florence on January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Alessio Tesi's departure from the University of Florence became effective on Thursday, January 1, 2026. This directly supports the claim, so the answer is based on the RAG information."
+        }
+    },
+    {
+        "context": "Alessio Tesi has parted ways with the University of Florence, marking the end of his tenure as of Thursday, January 1, 2026. This development signifies that Tesi no longer holds a position at the esteemed institution. His departure became effective on the aforementioned date.",
+        "statement": "Alessio Tesi may have ended his affiliation with the University of Florence around January 1, 2026.",
+        "model_output": {
+            "statement": "Alessio Tesi may have ended his affiliation with the University of Florence around January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Alessio Tesi's departure from the University of Florence became effective on Thursday, January 1, 2026. Therefore, the claim that he may have ended his affiliation around that date is supported by the retrieved text. No conflict with external knowledge was observed."
+        }
+    },
+    {
+        "context": "Alessio Tesi has parted ways with the University of Florence, marking the end of his tenure as of Thursday, January 1, 2026. This development signifies that Tesi no longer holds a position at the esteemed institution. His departure became effective on the aforementioned date.",
+        "statement": "Alessio Tesi started a new role at the University of Florence on January 1, 2026.",
+        "model_output": {
+            "statement": "Alessio Tesi started a new role at the University of Florence on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage explicitly states that Alessio Tesi 'parted ways' with the University of Florence, ending his tenure effective January 1, 2026, meaning he left the institution on that date. Therefore, the claim that he started a new role there on the same date contradicts the passage. This judgment is based on the RAG context (and reinforced by general knowledge that 'parted ways' implies departure, not a new appointment)."
+        }
+    },
+    {
+        "context": "Alessio Tesi has parted ways with the University of Florence, marking the end of his tenure as of Thursday, January 1, 2026. This development signifies that Tesi no longer holds a position at the esteemed institution. His departure became effective on the aforementioned date.",
+        "statement": "Alessio Tesi became dean of the University of Florence on January 1, 2026.",
+        "model_output": {
+            "statement": "Alessio Tesi became dean of the University of Florence on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage states that Alessio Tesi's tenure at the University of Florence ended on January 1, 2026, indicating he left the institution on that date. It makes no mention of him assuming a dean position; rather, it confirms he no longer holds any role there. My general knowledge also does not contain any record of him becoming dean on that date. Therefore, the claim contradicts the provided passage and is false."
+        }
+    },
+    {
+        "context": "Wednesday, January 7th, 2026: Local News Update\nMatt Read is no longer a member of the University of Western Ontario as of Thursday, January 1, 2026, marking a significant change in his affiliation with the institution just days ago.",
+        "statement": "Matt Read ceased to be a member of the University of Western Ontario on January 1, 2026.",
+        "model_output": {
+            "statement": "Matt Read ceased to be a member of the University of Western Ontario on January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Matt Read is no longer a member of the University of Western Ontario as of Thursday, January 1, 2026. This directly supports the claim, so the judgment is based on the RAG (retrieved) passage."
+        }
+    },
+    {
+        "context": "Wednesday, January 7th, 2026: Local News Update\nMatt Read is no longer a member of the University of Western Ontario as of Thursday, January 1, 2026, marking a significant change in his affiliation with the institution just days ago.",
+        "statement": "Matt Read may have ended his membership with the University of Western Ontario around January 1, 2026.",
+        "model_output": {
+            "statement": "Matt Read may have ended his membership with the University of Western Ontario around January 1, 2026.",
+            "answer": "True",
+            "reasoning": "The context passage explicitly states that Matt Read is no longer a member of the University of Western Ontario as of Thursday, January 1, 2026, which directly supports the claim. No conflicting information from my own knowledge was found."
+        }
+    },
+    {
+        "context": "Wednesday, January 7th, 2026: Local News Update\nMatt Read is no longer a member of the University of Western Ontario as of Thursday, January 1, 2026, marking a significant change in his affiliation with the institution just days ago.",
+        "statement": "Matt Read joined the University of Western Ontario on January 1, 2026.",
+        "model_output": {
+            "statement": "Matt Read joined the University of Western Ontario on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage states that Matt Read is no longer a member of the University of Western Ontario as of Thursday, January 1, 2026, indicating he left the institution on that date, not joined it. This information from the RAG passage directly contradicts the claim."
+        }
+    },
+    {
+        "context": "Wednesday, January 7th, 2026: Local News Update\nMatt Read is no longer a member of the University of Western Ontario as of Thursday, January 1, 2026, marking a significant change in his affiliation with the institution just days ago.",
+        "statement": "Matt Read was appointed chancellor of the University of Western Ontario on January 1, 2026.",
+        "model_output": {
+            "statement": "Matt Read was appointed chancellor of the University of Western Ontario on January 1, 2026.",
+            "answer": "False",
+            "reasoning": "The context passage explicitly states that Matt Read is no longer a member of the University of Western Ontario as of January 1, 2026, indicating he left the institution on that date. An appointment as chancellor would imply joining or remaining with the university, not departing. No evidence in the passage or from general knowledge supports the claim of his appointment, so the statement is false based on the RAG information."
+        }
+    }
+]
